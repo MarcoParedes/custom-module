@@ -1,0 +1,21 @@
+{
+  "name": "operations",
+  "version": "1.0.0",
+  "description": "algebraic operations",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/main.js"
+  },
+  "keywords": [
+    "math",
+    "example",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "fibonacci"
+  ],
+  "author": "Marco Paredes",
+  "license": "ISC"
+}
